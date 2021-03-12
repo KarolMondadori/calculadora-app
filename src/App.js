@@ -90,3 +90,6 @@ export default App;
 // colocar input1 e 2 que vai ser sempre numero OK
 // 2.2 Dar o resultado na pagina OK
 // 2.3 CSS
+// 3.1 Jest Test
+// 3.3 install Axios
+// 3.4 Subir Github
