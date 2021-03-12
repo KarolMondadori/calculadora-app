@@ -75,7 +75,7 @@ class App extends React.Component {
           <button aria-label="calcule">Calcule</button>
         </form>
         <p aria-label="resultado">Resultado: {this.state.resultado}</p>
-        <a href="https://github.com/KarolMondadori/my-app-calculator" target="blank">Open-source code by Karol Mondadori</a>
+        <a href="https://github.com/KarolMondadori/calculadora-app" target="blank">Open-source code by Karol Mondadori</a>
       </header>
     </div>
   )};
